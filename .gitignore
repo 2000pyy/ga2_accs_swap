@@ -1,0 +1,11 @@
+/runtime/
+/out/
+/build/
+/tools/out/
+/jdk/
+.idea/
+*.iml
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
